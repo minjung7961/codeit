@@ -1,0 +1,7 @@
+cat: 고양이
+church: 교회
+temple: 절
+dog: 개
+sabotage: 방해공작
+imposter: 방해자
+crewmate: 선원

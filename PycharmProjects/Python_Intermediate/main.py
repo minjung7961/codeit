@@ -1,0 +1,5 @@
+print(range(5))
+print(type(range(5)))
+a = list(range(5))
+print(type(a))
+print(a)
